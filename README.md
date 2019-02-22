@@ -10,7 +10,7 @@
 
    1.2 Backpropagation                           [ Done ]
 
-   1.3 Save model                                [ Todo ]
+   1.3 Save/Load model                           [ Todo ]
 
 ### 2. Convolutional Neural Network
 
