@@ -12,6 +12,16 @@
 
    1.3 Save/Load model                           [ Todo ]
 
+#### Results
+
+<p align="center">
+  <img src="0.JPG" height=400 />
+</p>
+
+<p align="center">
+  <img src="1.JPG" height=400 />
+</p>
+
 ### 2. Convolutional Neural Network
 
 #### To Do:
